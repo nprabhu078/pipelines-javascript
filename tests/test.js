@@ -1,5 +1,5 @@
 var assert = require('assert');
-
+//addding commments
 describe('String', function () {
     describe('#indexOf', function () {
         it('should return -1 when the substring is not present', function () {
